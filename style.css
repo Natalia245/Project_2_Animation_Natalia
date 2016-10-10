@@ -1,0 +1,17 @@
+
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower';
+
+h1 {
+  color: Green;
+font-family: Indie Flower;
+}
+
+body {
+  color: Green;
+font-family: Indie Flower;
+}
+
+
+svg{
+  background-image: url("http://vignette2.wikia.nocookie.net/mspaintadventures/images/6/6c/This_is_stupid_Large.gif/revision/latest?cb=20111216011130") ;
+}
